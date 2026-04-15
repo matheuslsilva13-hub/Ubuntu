@@ -24,4 +24,4 @@ Este foi o ponto onde senti o maior desafio, especificamente ao utilizar o edito
 
 ## 🚀 Conclusão
 O exercício foi fundamental para reforçar o uso do terminal. Apesar do contratempo com o Vim no Passo 3, o aprendizado sobre edição via linha de comando e a integração final com o GitHub foram os pontos mais valiosos.
-# Ubuntu
+
